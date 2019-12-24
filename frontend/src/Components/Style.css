@@ -1,0 +1,29 @@
+.List{
+  
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.Boutton{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 35px;
+}
+.contactList{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif; 
+}
+.card{
+    width: 390px;
+    border:solid 1px;
+    border-radius: 20px;
+}
+.card-text{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+.span{
+    margin-bottom: 7px;
+    font-family: "Times New Roman", Times, serif;
+}
